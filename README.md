@@ -1,6 +1,6 @@
 # world_time_app
 
-A new Flutter project.
+>Show world time. An android app built with Flutter.
 
 ## Getting Started
 
